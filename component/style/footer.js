@@ -6,7 +6,7 @@ function Footer(){
         <>
         
         <footer className="footer">
-        Copyright 2023 | All Rights Are reserved | Made By Aadarsh Raj |The Arya Solution
+      
         </footer>
         </>
     );
